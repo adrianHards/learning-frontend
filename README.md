@@ -1,2 +1,4 @@
-# resourcesJS
-a place for all my recommended JS resources
+# resources.JS
+A place for all my recommended JS resources.
+
+coming soon
