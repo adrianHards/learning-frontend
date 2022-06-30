@@ -3,7 +3,7 @@ placeholder for recommended JS resources.
 
 ## Roadmaps
 
-[Frontend](https://roadmap.sh/frontend)
+[Front-End](https://roadmap.sh/frontend)
 
 ## React
 
@@ -12,4 +12,4 @@ placeholder for recommended JS resources.
 
 ### Cheatsheets
 
-[freecodecamp](https://www-freecodecamp-org.cdn.ampproject.org/c/s/www.freecodecamp.org/news/the-react-cheatsheet/amp/#react-elements)
+[freeCodeCamp](https://www-freecodecamp-org.cdn.ampproject.org/c/s/www.freecodecamp.org/news/the-react-cheatsheet/amp/#react-elements)
