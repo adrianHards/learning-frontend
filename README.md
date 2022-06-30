@@ -1,12 +1,8 @@
-# resources.JS
-placeholder for recommended JS resources
-
 # Table of Contents
 * [Front-End](#front-end)
   * [React](#react)
  
 ## Front-End
-
 [Roadmap](https://roadmap.sh/frontend)
 
 ### React
