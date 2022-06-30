@@ -15,7 +15,7 @@ A collection of free recommended JS-centric resources
 #### Challenges
 [Leetcode](https://leetcode.com/)
 
-<p align="center"><a href="#top">back up</a></p>
+<p align="left"><a href="#top">back up</a></p>
  
 # Front-End
 [Roadmap](https://roadmap.sh/frontend)
@@ -24,7 +24,7 @@ A collection of free recommended JS-centric resources
 [FullStackOpen](https://fullstackopen.com/en/)  React • Redux • Node.js • MongoDB • GraphQL • TypeScript <br>
 [Odin Project](https://www.theodinproject.com/paths/full-stack-javascript) JavaScript • React • Node.js • MongoDB 
 
-<p align="center"><a href="#top">back up</a></p>
+<p align="left"><a href="#top">back up</a></p>
 
 ## React
 
@@ -38,12 +38,12 @@ A collection of free recommended JS-centric resources
 [Egghead](https://egghead.io/courses/the-beginner-s-guide-to-react) • ~2 ½ <br>
 [Scrimba](https://scrimba.com/learn/learnreact) • ~11+ hrs
 
-<p align="center"><a href="#top">back up</a></p>
+<p align="left"><a href="#top">back up</a></p>
 
 ## CSS
 
 #### Games
 [FlexboxFroggy](https://flexboxfroggy.com/)
 
-<p align="center"><a href="#top">back up</a></p>
+<p align="left"><a href="#top">back up</a></p>
 
