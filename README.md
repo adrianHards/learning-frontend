@@ -1,4 +1,15 @@
 # resources.JS
-A place for all my recommended JS resources.
+placeholder for recommended JS resources.
 
-coming soon
+## Roadmaps
+
+[Frontend](https://roadmap.sh/frontend)
+
+## React
+
+[Egghead](https://egghead.io/courses/the-beginner-s-guide-to-react) • videos • 2 ½
+[Scrimba](https://scrimba.com/learn/learnreact) • videos • 11+ hrs
+
+### Cheatsheets
+
+[freecodecamp](https://www-freecodecamp-org.cdn.ampproject.org/c/s/www.freecodecamp.org/news/the-react-cheatsheet/amp/#react-elements)
