@@ -27,7 +27,7 @@ A collection of free recommended JS-centric resources
 <p align="left"><a href="#top">back up</a></p>
 
 ## React
-
+A JavaScript library used to produce HTML from dynamic components
 #### Cheatsheets
 [freeCodeCamp](https://www-freecodecamp-org.cdn.ampproject.org/c/s/www.freecodecamp.org/news/the-react-cheatsheet/amp/#react-elements)
 
