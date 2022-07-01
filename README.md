@@ -32,7 +32,7 @@ A JavaScript library used to produce HTML from dynamic components
 > [freeCodeCamp](https://www-freecodecamp-org.cdn.ampproject.org/c/s/www.freecodecamp.org/news/the-react-cheatsheet/amp/#react-elements) • Free
 
 #### interacting with an API
-> [Advice Generator App](https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db) • Free
+> [Advice Generator App](https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db) • Frontend Mentor • Free
 
 #### IDEs
 > [Codecademy](https://www.codecademy.com/learn/react-101) • Free
