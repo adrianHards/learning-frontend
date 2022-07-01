@@ -43,7 +43,8 @@ A JavaScript library used to produce HTML from dynamic components
 
 <p align="right"><a href="#top">back up</a></p>
 
-## CSS
+## Other
+### CSS
 
 #### Games
 > [FlexboxFroggy](https://flexboxfroggy.com/) • Free
