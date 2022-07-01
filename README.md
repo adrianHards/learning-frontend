@@ -21,8 +21,8 @@ A collection of (mostly) free JS-centric resources. Feel free to leave a comment
 > [Roadmap](https://roadmap.sh/frontend) • Free
 
 #### Free Online Bootcamps
-> [FullStackOpen](https://fullstackopen.com/en/)  • Free | React • Redux • Node.js • MongoDB • GraphQL • TypeScript <br>
-> [Odin Project](https://www.theodinproject.com/paths/full-stack-javascript) • Free | JavaScript • React • Node.js • MongoDB 
+> [FullStackOpen](https://fullstackopen.com/en/)  • Free | &nbsp; React • Redux • Node.js • MongoDB • GraphQL • TypeScript <br>
+> [Odin Project](https://www.theodinproject.com/paths/full-stack-javascript) • Free | &nbsp; JavaScript • React • Node.js • MongoDB 
 
 <p align="right"><a href="#top">back up</a></p>
 
