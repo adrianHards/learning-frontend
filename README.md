@@ -4,9 +4,9 @@ A collection of (mostly) free JS-centric resources. If you find this page helpfu
 <br>
 
 💜's are reserved for resources I've used and recommend <br>
-🍿 are for video resources <br>
-📖 are for reading resources <br>
-👩‍💻 are for programming resources
+🍿 are for videos <br>
+📖 are for reading material <br>
+👩‍💻 are for challenges
 
 ### Table of Contents
 
