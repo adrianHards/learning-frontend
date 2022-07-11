@@ -70,6 +70,7 @@ A JavaScript library used to produce HTML from dynamic components
 🚧 under construction 🚧
 
 * [mtdvio](https://github.com/mtdvio/every-programmer-should-know)
+* [notes](https://benmccormick.org/2018/02/20/cs-for-fe/)
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=adrianHards/resources-js" id="counter">
