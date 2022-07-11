@@ -67,8 +67,8 @@ A JavaScript library used to produce HTML from dynamic components
 
 ### Theory
 
-* [CS50](https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0)
-* [MIT](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/pages/syllabus/)
+🚧 under construction 🚧
+
 * [mtdvio](https://github.com/mtdvio/every-programmer-should-know)
 
 <p align="center">
