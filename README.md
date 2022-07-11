@@ -1,24 +1,32 @@
 <div hidden id="top"></div>
-A collection of (mostly) free JS-centric resources. Feel free to leave a comment or question! And if you find this page helpful, please give it a star! 🌟
+A collection of (mostly) free JS-centric resources. If you find this page helpful, please give it a star! 🌟 Feedback is welcome. 
+<br>
+<br>
+
+💜's are reserved for resources I've used and personally recommend <br>
+🍿 are for video resources <br>
+📖 are for reading resources <br>
+👩‍💻 are for programming resources
 
 ### Table of Contents
 
 * [JavaScript](#javascript)
 * [Front-End](#front-end)
   * [React](#react)
-  * [CSS](#css)
+* [CSS](#css)
+* [Theory](#theory)
 
 <br>
 
 # JavaScript
 
 #### Challenges
-> [Leetcode](https://leetcode.com/) • Free
+* 💜 👩‍💻 [Leetcode](https://leetcode.com/) • Free
 
 <p align="right"><a href="#top">back up</a></p>
  
 # Front-End
-> [Roadmap](https://roadmap.sh/frontend) • Free
+* 💜 [Roadmap](https://roadmap.sh/frontend) • Free
 
 #### Free Online Bootcamps
 > [FullStackOpen](https://fullstackopen.com/en/)  • Free | &nbsp; React • Redux • Node.js • MongoDB • GraphQL • TypeScript <br>
@@ -38,7 +46,8 @@ A JavaScript library used to produce HTML from dynamic components
 > [Codecademy](https://www.codecademy.com/learn/react-101) • Free
 
 #### Videos
-> [Egghead](https://egghead.io/courses/the-beginner-s-guide-to-react) • ~2 ½ • Free<br>
+* 💜 🍿 [Egghead](https://egghead.io/courses/the-beginner-s-guide-to-react) • ~2 ½ • Free<br>
+>
 > [Scrimba](https://scrimba.com/learn/learnreact) • ~11+ hrs • Free
 
 <p align="right"><a href="#top">back up</a></p>
@@ -46,10 +55,20 @@ A JavaScript library used to produce HTML from dynamic components
 ## Other
 ### CSS
 
+#### References
+* [cssreference](https://cssreference.io/) • Free
+> features the most popular properties and explains them with illustrated and animated examples
+
 #### Games
-> [FlexboxFroggy](https://flexboxfroggy.com/) • Free
+* [FlexboxFroggy](https://flexboxfroggy.com/) • Free
+> bring the Froggy and friends home to their lilypads with CSS flexbox
 
 <p align="right"><a href="#top">back up</a></p>
+
+### Theory
+
+* [CS50](https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0)
+* [mtdvio](https://github.com/mtdvio/every-programmer-should-know)
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=adrianHards/resources-js" id="counter">
