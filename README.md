@@ -1,5 +1,5 @@
 <div hidden id="top"></div>
-A collection of (mostly) free JS-centric resources. If you find this page helpful, please give it a star! 🌟 Feedback is welcome. 
+A collection of (mostly) free front end and JavaScript centric resources. If you find this page helpful, please give it a star! 🌟 Feedback is welcome. 
 <br>
 <br>
 
