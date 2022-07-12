@@ -2,7 +2,7 @@
 
 A collection of (mostly) free front end and JavaScript centric resources. Some, such as Front End Masters (FEM), are paid for, but if you're eligible for the [GitHub Student Developer Pack](https://education.github.com/pack) you get a few months [free](https://frontendmasters.com/welcome/github-student-developers/). 
 <br><br>
-I recommend starting [here](https://roadmap.sh/frontend). And whatever you do, don't get stuck in tutorial paralysis. Build as much as you can! 
+I recommend starting [here](https://roadmap.sh/frontend). And whatever you do, don't get stuck in tutorial paralysis. <strong>Build as much as you can!</strong> 
 
 ### Table of Contents
 
@@ -13,7 +13,7 @@ I recommend starting [here](https://roadmap.sh/frontend). And whatever you do, d
 
 <br>
 
-💜's are reserved for resources I've used and recommend. If you find this page helpful, please give it a star! 🌟 Feedback is welcome. 
+💜's are reserved for resources I've used and recommend. 
 
 # JavaScript
 
@@ -42,7 +42,7 @@ A JavaScript library used to produce HTML from dynamic components
 > [Codecademy](https://www.codecademy.com/learn/react-101) • Free
 
 #### Videos
-* 💜 [Egghead](https://egghead.io/courses/the-beginner-s-guide-to-react) • ~2 ½ • Free <br>
+* [Egghead](https://egghead.io/courses/the-beginner-s-guide-to-react) • ~2 ½ • Free <br>
 >
 * [Scrimba](https://scrimba.com/learn/learnreact) • ~11+ hrs • Free
 
