@@ -1,6 +1,6 @@
 <div hidden id="top"></div>
 
-A collection of (mostly) free front end and JavaScript centric resources. Some, such as Front End Masters (FEM), are paid for, but if you're eligible for the [GitHub Student Developer Pack](https://education.github.com/pack) you get a few months [free](https://frontendmasters.com/welcome/github-student-developers/). 
+A collection of (mostly) free front end and JavaScript centric resources. Some, such as Front End Masters (FEM), are paid for, but if you're eligible for the [GitHub Student Developer Pack](https://education.github.com/pack) you get six months [free](https://frontendmasters.com/welcome/github-student-developers/)! 
 <br><br>
 I recommend starting [here](https://roadmap.sh/frontend). And whatever you do, don't get stuck in tutorial paralysis. <strong>Build as much as you can!</strong> 
 
@@ -25,8 +25,10 @@ I recommend starting [here](https://roadmap.sh/frontend). And whatever you do, d
 # Front-End
 
 #### Free Online Bootcamps
-> [FullStackOpen](https://fullstackopen.com/en/)  • Free | &nbsp; React • Redux • Node.js • MongoDB • GraphQL • TypeScript <br>
-> [Odin Project](https://www.theodinproject.com/paths/full-stack-javascript) • Free | &nbsp; JavaScript • React • Node.js • MongoDB 
+* [FullStackOpen](https://fullstackopen.com/en/)  • Free | &nbsp; React • Redux • Node.js • MongoDB • GraphQL • TypeScript <br>
+> a good place to start if you're already familiar with JavaScript or are coming from a different tech stack
+* [Odin Project](https://www.theodinproject.com/paths/full-stack-javascript) • Free | &nbsp; JavaScript • React • Node.js • MongoDB
+> more oriented towards absolute beginners 
 
 <p align="right"><a href="#top">back up</a></p>
 
@@ -49,7 +51,6 @@ A JavaScript library used to produce HTML from dynamic components
 #### Challenges
 * [Frontend Mentor](https://www.frontendmentor.io/challenges)
 
-
 <p align="right"><a href="#top">back up</a></p>
 
 
@@ -68,9 +69,9 @@ A JavaScript library used to produce HTML from dynamic components
 
 ### Computer Science
 
-A contentious topic, and one I'm not well qualified to talk about. The general consensus, however, seems to be that there several important concepts to learn with [some](https://benmccormick.org/2018/02/20/cs-for-fe/) being more important than others. 
+A contentious topic, and one I'm not well qualified to talk about. The general consensus (i.e. Reddit), however, seems to be that there several important concepts to learn with [some](https://benmccormick.org/2018/02/20/cs-for-fe/) being more important than others. 
 
-Personally, I will try [this](https://frontendmasters.com/courses/computer-science-v2/) course by FEM, but at the moment I don't think it's the best use of my time. 
+Personally, I will try [this](https://frontendmasters.com/courses/computer-science-v2/) course by FEM, but at the moment I don't think it's the best use of my time.
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=adrianHards/resources-js" id="counter">
