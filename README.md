@@ -2,7 +2,7 @@
 
 A collection of (mostly) free front end and JavaScript centric resources. Some, such as Front End Masters (FEM), are paid for, but if you're eligible for the [GitHub Student Developer Pack](https://education.github.com/pack) you get six months [free](https://frontendmasters.com/welcome/github-student-developers/)! 
 <br><br>
-I recommend starting [here](https://roadmap.sh/frontend). And whatever you do, don't get stuck in tutorial paralysis. <strong>Build as much as you can!</strong> 
+I recommend starting [here](https://roadmap.sh/frontend).  I'll try to avoid adding too many resources simply because I think it's better to focus on a few (we don't want to get stuck in tutorial paralysis!) <strong>And finally, build as much as you can!</strong>
 
 ### Table of Contents
 
