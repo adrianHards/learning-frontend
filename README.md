@@ -78,7 +78,7 @@ A JavaScript library used to produce HTML from dynamic components
 
 # Computer Science
 
-A contentious topic, and one I'm not well qualified to talk about. The general consensus (i.e. what Reddit says) seems to be that there several important concepts to learn with [some](https://benmccormick.org/2018/02/20/cs-for-fe/) being more important than others. 
+A contentious topic for Bootcamp graduates, and one I'm not well qualified to talk about. The general consensus (i.e. what Reddit says) seems to be that there several important concepts to learn with [some](https://benmccormick.org/2018/02/20/cs-for-fe/) being more important than others. 
 
 Personally, I will try [this](https://frontendmasters.com/courses/computer-science-v2/) course by FEM, but at the moment I don't think it's the best use of my time.
 
