@@ -6,16 +6,20 @@ I recommend starting [here](https://roadmap.sh/frontend).  I'll try to avoid add
 
 ### Table of Contents
 
-* [JavaScript](#javascript)
+* [Vanilla](#vanilla)
 * [React](#react)
-* [CSS](#css)
-* [Computer Science](#computer-science)
+* [Other](#vanilla)
+  * [CSS](#css)
+  * [Computer Science](#computer-science)
 
 <br>
 
 💜's are reserved for resources I've used and recommend. 
 
-# JavaScript
+# Vanilla
+
+#### APIs
+* [connect to an API using JS](https://www.taniarascia.com/how-to-connect-to-an-api-with-javascript/) • Free
 
 #### Challenges
 * 💜 [Leetcode](https://leetcode.com/) • Free
@@ -35,13 +39,13 @@ I recommend starting [here](https://roadmap.sh/frontend).  I'll try to avoid add
 ## React
 A JavaScript library used to produce HTML from dynamic components
 #### Cheatsheets
-> [freeCodeCamp](https://www-freecodecamp-org.cdn.ampproject.org/c/s/www.freecodecamp.org/news/the-react-cheatsheet/amp/#react-elements) • Free
+* [freeCodeCamp](https://www-freecodecamp-org.cdn.ampproject.org/c/s/www.freecodecamp.org/news/the-react-cheatsheet/amp/#react-elements) • Free
 
 #### interacting with an API
-> [Advice Generator App](https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db) • Frontend Mentor • Free
+* [Advice Generator App](https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db) • Frontend Mentor • Free
 
 #### IDEs
-> [Codecademy](https://www.codecademy.com/learn/react-101) • Free
+* [Codecademy](https://www.codecademy.com/learn/react-101) • Free
 
 #### Videos
 * [Egghead](https://egghead.io/courses/the-beginner-s-guide-to-react) • ~2 ½ • Free <br>
@@ -53,8 +57,9 @@ A JavaScript library used to produce HTML from dynamic components
 
 <p align="right"><a href="#top">back up</a></p>
 
+# Vanilla
 
-## Other
+
 ### CSS
 
 #### References
