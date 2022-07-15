@@ -24,6 +24,9 @@ I recommend starting [here](https://roadmap.sh/frontend).  I'll try to avoid add
 #### Challenges
 * 💜 [Leetcode](https://leetcode.com/) • Free
 
+#### Notes
+* [JavaScript classes](https://www.freecodecamp.org/news/javascript-classes-how-they-work-with-use-case/#what-are-classes-in-javascript) • Free
+
 <p align="right"><a href="#top">back up</a></p>
  
 # Front-End
