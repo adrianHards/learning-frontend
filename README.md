@@ -26,7 +26,8 @@ I recommend starting [here](https://roadmap.sh/frontend).  I'll try to avoid add
 
 #### Notes
 * [JavaScript classes](https://www.freecodecamp.org/news/javascript-classes-how-they-work-with-use-case/#what-are-classes-in-javascript) • Free
-* [OOP]
+* [time to interactive](https://www.builder.io/blog/the-ultimate-guide-to-optimizing-javascript-for-quick-page-loads) • Free
+  * [lazy loading](https://developer.mozilla.org/en-US/docs/Web/Performance/Lazy_loading) • Free
 
 <p align="right"><a href="#top">back up</a></p>
  
