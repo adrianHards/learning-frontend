@@ -1,31 +1,33 @@
 <div hidden id="top"></div>
 
-A collection of (mostly) free front end and JavaScript centric resources. Some, such as Front End Masters (FEM), are paid for, but if you're eligible for the [GitHub Student Developer Pack](https://education.github.com/pack) you get six months [free](https://frontendmasters.com/welcome/github-student-developers/)! 
-<br><br>
-I recommend starting [here](https://roadmap.sh/frontend).  I'll try to avoid adding too many resources simply because I think it's better to focus on a few (we don't want to get stuck in tutorial paralysis!) <strong>And finally, build as much as you can!</strong>
+A collection of (mostly) free front end and JavaScript centric resources. I recommend starting with this [roadmap](https://roadmap.sh/frontend).  
+<br>
+I'll try to avoid adding too many resources simply because I think it's better to focus on a few. <strong>And remember, build as much as you can!</strong>
+<br>
+<br>
 
-### Table of Contents
+# Table of Contents
 
-* [Vanilla](#vanilla)
+* [Vanilla JavaScript](#vanilla-javascript)
 * [React](#react)
-* [Other](#vanilla)
-  * [CSS](#css)
-  * [Computer Science](#computer-science)
+* [CSS](#css)
+* [Computer Science](#computer-science)
+* [Blogs](#blogs)
 
 <br>
 
-💜's are reserved for resources I've used and recommend. 
+💜's are reserved for resources I've used and recommend. Some, such as Front End Masters (FEM), are paid for, but if you're eligible for the [GitHub Student Developer Pack](https://education.github.com/pack) you get six months [free](https://frontendmasters.com/welcome/github-student-developers/)! 
 
-# Vanilla
+# Vanilla JavaScript
 
 #### APIs
 * [connect to an API using JS](https://www.taniarascia.com/how-to-connect-to-an-api-with-javascript/) • Free
 
 #### Challenges
-* 💜 [Leetcode](https://leetcode.com/) • Free
+* 💜 [Leetcode](https://leetcode.com/) • Free 
 
 #### Notes
-* [JavaScript classes](https://www.freecodecamp.org/news/javascript-classes-how-they-work-with-use-case/#what-are-classes-in-javascript)
+* [classes](https://www.freecodecamp.org/news/javascript-classes-how-they-work-with-use-case/#what-are-classes-in-javascript)
 * [time to interactive](https://www.builder.io/blog/the-ultimate-guide-to-optimizing-javascript-for-quick-page-loads)
   * [lazy loading](https://developer.mozilla.org/en-US/docs/Web/Performance/Lazy_loading)
 
@@ -62,10 +64,7 @@ A JavaScript library used to produce HTML from dynamic components
 
 <p align="right"><a href="#top">back up</a></p>
 
-# Vanilla
-
-
-### CSS
+## CSS
 
 #### References
 * [cssreference](https://cssreference.io/) • Free
@@ -77,11 +76,16 @@ A JavaScript library used to produce HTML from dynamic components
 
 <p align="right"><a href="#top">back up</a></p>
 
-### Computer Science
+# Computer Science
 
 A contentious topic, and one I'm not well qualified to talk about. The general consensus (i.e. what Reddit says) seems to be that there several important concepts to learn with [some](https://benmccormick.org/2018/02/20/cs-for-fe/) being more important than others. 
 
 Personally, I will try [this](https://frontendmasters.com/courses/computer-science-v2/) course by FEM, but at the moment I don't think it's the best use of my time.
+
+# Blogs
+
+* [Tania Rascia](https://www.taniarascia.com/)
+> fantastically well explained tutorials, I can't recommend them enough
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=adrianHards/resources-js" id="counter">
