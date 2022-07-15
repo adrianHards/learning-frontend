@@ -26,7 +26,7 @@ I recommend starting [here](https://roadmap.sh/frontend).  I'll try to avoid add
 
 #### Notes
 * [JavaScript classes](https://www.freecodecamp.org/news/javascript-classes-how-they-work-with-use-case/#what-are-classes-in-javascript) • Free
-* [OOP](https://www.freecodecamp.org/news/object-oriented-javascript-for-beginners/#polymorphism) • Free
+* [OOP](https://www.freecodecamp.org/news/object-oriented-javascript-for-beginners/) • Free
 
 <p align="right"><a href="#top">back up</a></p>
  
