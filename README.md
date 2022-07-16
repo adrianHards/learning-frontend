@@ -1,8 +1,8 @@
 <div hidden id="top"></div>
 
-A collection of (mostly) free front end and JavaScript centric resources. I recommend starting with this [roadmap](https://roadmap.sh/frontend).  
+A collection of (mostly) free front end and JavaScript centric resources. I recommend starting with this 💜 [roadmap](https://roadmap.sh/frontend).  
 <br>
-I'll try to avoid adding too many resources simply because I think it's better to focus on a few. <strong>And remember, build as much as you can!</strong>
+I'll try to avoid adding too many resources simply because I think it's better to focus on a few. If you find this page helpful, please give it a star! 🌟 <strong>And remember, build as much as you can!</strong>. 
 <br>
 <br>
 
@@ -21,7 +21,7 @@ I'll try to avoid adding too many resources simply because I think it's better t
 # Vanilla JavaScript
 
 #### APIs
-* [connect to an API using JS](https://www.taniarascia.com/how-to-connect-to-an-api-with-javascript/) • Free
+* 💜 [connect to an API using JS](https://www.taniarascia.com/how-to-connect-to-an-api-with-javascript/) • Free
 
 #### Challenges
 * 💜 [Leetcode](https://leetcode.com/) • Free 
