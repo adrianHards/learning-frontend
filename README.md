@@ -21,7 +21,7 @@ If you find this page helpful, please give it a star! 🌟 <strong>And remember,
 ## Vanilla JavaScript
 
 ##### APIs
-* 💜 [connect to an API using JS](https://www.taniarascia.com/how-to-connect-to-an-api-with-javascript/) • Free
+* 💜 [connect to a web API using JS](https://www.taniarascia.com/how-to-connect-to-an-api-with-javascript/) • Free
 
 ##### Challenges
 * 💜 [Leetcode](https://leetcode.com/) • Free 
