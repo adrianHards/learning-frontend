@@ -85,7 +85,7 @@ Personally, I will try [this](https://frontendmasters.com/courses/computer-scien
 
 ## Blogs
 
-* [Tania Rascia](https://www.taniarascia.com/)
+* 💜 [Tania Rascia](https://www.taniarascia.com/)
 > fantastically well explained tutorials, I can't recommend them enough
 
 <p align="right"><a href="#top">back up</a></p>
