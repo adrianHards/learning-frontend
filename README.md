@@ -66,7 +66,7 @@ A JavaScript library used to produce HTML from dynamic components
 ## CSS
 
 ##### References
-* [cssreference](https://cssreference.io/) • Free
+* 💜 [cssreference](https://cssreference.io/) • Free
 > features the most popular properties and explains them with illustrated and animated examples
 
 ##### Games
