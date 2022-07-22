@@ -27,8 +27,8 @@ If you find this page helpful, please give it a star! 🌟 <strong>And remember,
 * 💜 [Leetcode](https://leetcode.com/) • Free 
 
 ##### Prep
-* [classes](https://www.freecodecamp.org/news/javascript-classes-how-they-work-with-use-case/#what-are-classes-in-javascript)
-* [time to interactive](https://www.builder.io/blog/the-ultimate-guide-to-optimizing-javascript-for-quick-page-loads)
+* [classes](https://www.freecodecamp.org/news/javascript-classes-how-they-work-with-use-case/#what-are-classes-in-javascript) • Free 
+* [time to interactive](https://www.builder.io/blog/the-ultimate-guide-to-optimizing-javascript-for-quick-page-loads) • Free 
 
 <p align="right"><a href="#top">back up</a></p>
  
