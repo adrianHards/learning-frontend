@@ -72,6 +72,7 @@ A JavaScript library used to produce HTML from dynamic components
 ##### Games
 * [FlexboxFroggy](https://flexboxfroggy.com/) • Free
 > bring the Froggy and friends home to their lilypads with CSS flexbox
+* [CSSBattle](https://cssbattle.dev/) • Free
 
 <p align="right"><a href="#top">back up</a></p>
 
