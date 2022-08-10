@@ -80,7 +80,7 @@ A JavaScript library used to produce HTML from dynamic components
  ## Blogs
 
 * 💜 [Tania Rascia](https://www.taniarascia.com/)
-> fantastically well explained tutorials, I can't recommend them enough
+> fantastically well explained tutorials, I can't recommend them enough (just be sure to check whether they've been updated recently)
 
 <p align="right"><a href="#top">back up</a></p>
 
