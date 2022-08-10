@@ -8,30 +8,17 @@ If you find this page helpful, please give it a star! 🌟 <strong>And remember,
 
 ## Table of Contents
 
-* [Vanilla JavaScript](#vanilla-javascript)
+
 * [React](#react)
 * [CSS](#css)
-* [Computer Science](#computer-science)
+* [Vanilla JavaScript](#vanilla-javascript)
 * [Blogs](#blogs)
+* [Computer Science](#computer-science)
 
 <br>
 
 💜's are reserved for resources I've used and recommend. Some, such as Front End Masters (FEM), are paid for, but if you're eligible for the [GitHub Student Developer Pack](https://education.github.com/pack) you get six months [free](https://frontendmasters.com/welcome/github-student-developers/)! 
 
-## Vanilla JavaScript
-
-##### APIs
-* 💜 [connect to a web API using JS](https://www.taniarascia.com/how-to-connect-to-an-api-with-javascript/) • Free
-
-##### Challenges
-* 💜 [Leetcode](https://leetcode.com/) • Free 
-
-##### Prep
-* [classes](https://www.freecodecamp.org/news/javascript-classes-how-they-work-with-use-case/#what-are-classes-in-javascript) • Free 
-* [time to interactive](https://www.builder.io/blog/the-ultimate-guide-to-optimizing-javascript-for-quick-page-loads) • Free 
-
-<p align="right"><a href="#top">back up</a></p>
- 
 ## Front-End
 
 ##### Online Bootcamps
@@ -76,6 +63,27 @@ A JavaScript library used to produce HTML from dynamic components
 
 <p align="right"><a href="#top">back up</a></p>
 
+## Vanilla JavaScript
+
+##### APIs
+* 💜 [connect to a web API using JS](https://www.taniarascia.com/how-to-connect-to-an-api-with-javascript/) • Free
+
+##### Challenges
+* 💜 [Leetcode](https://leetcode.com/) • Free 
+
+##### Prep
+* [classes](https://www.freecodecamp.org/news/javascript-classes-how-they-work-with-use-case/#what-are-classes-in-javascript) • Free 
+* [time to interactive](https://www.builder.io/blog/the-ultimate-guide-to-optimizing-javascript-for-quick-page-loads) • Free 
+
+<p align="right"><a href="#top">back up</a></p>
+
+ ## Blogs
+
+* 💜 [Tania Rascia](https://www.taniarascia.com/)
+> fantastically well explained tutorials, I can't recommend them enough
+
+<p align="right"><a href="#top">back up</a></p>
+
 ## Computer Science
 
 A contentious topic for Bootcamp graduates, and one I'm not well qualified to talk about. The general consensus (i.e. what Reddit says) seems to be that there several important concepts to learn with [some](https://benmccormick.org/2018/02/20/cs-for-fe/) being more important than others. 
@@ -84,14 +92,10 @@ Personally, I will try [this](https://frontendmasters.com/courses/computer-scien
 
 <p align="right"><a href="#top">back up</a></p>
 
-## Blogs
-
-* 💜 [Tania Rascia](https://www.taniarascia.com/)
-> fantastically well explained tutorials, I can't recommend them enough
-
-<p align="right"><a href="#top">back up</a></p>
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=adrianHards/resources-js" id="counter">
 </p>
+
+
 
