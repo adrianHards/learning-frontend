@@ -16,7 +16,7 @@ If you find this page helpful, please give it a star! 🌟 <strong>And remember,
 
 <br>
 
-💜's are reserved for resources I've used and recommend. Some, such as Front End Masters (FEM), are paid for, but if you're eligible for the [GitHub Student Developer Pack](https://education.github.com/pack) you get six months [free](https://frontendmasters.com/welcome/github-student-developers/)! 
+💜's are reserved for resources I've used and recommend. Some, such as Front End Masters (FEM), are paid for, but if you're eligible for the [GitHub Student Developer Pack](https://education.github.com/pack) you can get six months [free](https://frontendmasters.com/welcome/github-student-developers/)! 
 
 ## Front-End
 
@@ -24,7 +24,7 @@ If you find this page helpful, please give it a star! 🌟 <strong>And remember,
 * [FullStackOpen](https://fullstackopen.com/en/)  • Free | &nbsp; React • Redux • Node.js • MongoDB • GraphQL • TypeScript <br>
 > a good place to start if you're already familiar with JavaScript or are coming from a different tech stack
 * [Odin Project](https://www.theodinproject.com/paths/full-stack-javascript) • Free | &nbsp; JavaScript • React • Node.js • MongoDB
-> more oriented towards absolute beginners 
+> more oriented towards absolute beginners
 
 <p align="center"><a href="#top">⬆</a></p>
 
@@ -33,37 +33,31 @@ A JavaScript library used to produce HTML from dynamic components
 ##### Cheatsheets
 * [freeCodeCamp](https://www-freecodecamp-org.cdn.ampproject.org/c/s/www.freecodecamp.org/news/the-react-cheatsheet/amp/#react-elements) • Free
 
-##### IDEs
-* [Codecademy](https://www.codecademy.com/learn/react-101) • Free
-
-##### Videos
+##### Learning
 * [Egghead](https://egghead.io/courses/the-beginner-s-guide-to-react) • ~2 ½ • Free <br>
+* [Codecademy](https://www.codecademy.com/learn/react-101) • Free <br>
 * [FEM](https://frontendmasters.com/courses/complete-react-v7/) • ~7 ½ • Subscription <br>
 * [Scrimba](https://scrimba.com/learn/learnreact) • ~11+ hrs • Free
 
 ##### Challenges
 * [Frontend Mentor](https://www.frontendmentor.io/challenges) • Some Free
-* [Advice Generator App](https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db) • Free
 
 <p align="center"><a href="#top">⬆</a></p>
 
 ## CSS
 
 ##### References
+* 💜 [CSS & HTML standards](https://codeguide.co/) • Free
 * 💜 [cssreference](https://cssreference.io/) • Free
-> features the most popular properties and explains them with illustrated and animated examples
+* [flexbox](https://tobiasahlin.com/blog/common-flexbox-patterns/)
 
-##### Games
+##### Challenges
 * [FlexboxFroggy](https://flexboxfroggy.com/) • Free
-> bring the Froggy and friends home to their lilypads with CSS flexbox
 * [CSSBattle](https://cssbattle.dev/) • Free
 
 <p align="center"><a href="#top">⬆</a></p>
 
 ## Vanilla JavaScript
-
-##### APIs
-* 💜 [connect to a web API using JS](https://www.taniarascia.com/how-to-connect-to-an-api-with-javascript/) • Free
 
 ##### Fundamentals
 * [Fundamental to Functional JS](https://frontendmasters.com/courses/js-fundamentals-functional-v2/) • Subscription
