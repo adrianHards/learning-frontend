@@ -14,6 +14,7 @@ If you find this page helpful, please give it a star! 🌟 <strong>And remember,
 * [Technical Questions](#technical-questions)
 * [Blogs](#blogs)
 * [Computer Science](#computer-science)
+* [Other](#other)
 
 <br>
 
@@ -90,6 +91,24 @@ A JavaScript library used to produce HTML from dynamic components
 A contentious topic for Bootcamp graduates, and one I'm not well qualified to talk about. The general consensus (i.e. what Reddit says) seems to be that there several important concepts to learn with [some](https://benmccormick.org/2018/02/20/cs-for-fe/) being more important than others. 
 
 Personally, I will try [this](https://frontendmasters.com/courses/computer-science-v2/) course by FEM, but at the moment I don't think it's the best use of my time.
+
+<p align="center"><a href="#top">⬆</a></p>
+
+## Other
+
+### MacOS Keyboard Shortcuts 
+
+Within VSCode, select a line or multiple lines of code and then click: <br>
+* `option arrow key` to move the code up ↑ or down ↓ a line
+* `⌘ /` to comment out your code, no matter which language you are using
+* `⇥` to indent the line(s) to the right or `⇧ ⇥` to reverse indent
+* `⌃ ~`  to open a new terminal. Alternatively, you can use Replit to play around with small snippets of code.
+* click on a word and then `⌘ d` to find and select all matching words in your code, then delete or start typing what you want to replace the word with
+fn ⌫ to reverse delete
+* `option z` toggle size to content width
+
+### Command Line
+* `control r` to search for previously entered commands
 
 <p align="center"><a href="#top">⬆</a></p>
 
