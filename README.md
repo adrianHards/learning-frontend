@@ -105,7 +105,7 @@ Within VSCode, select a line or multiple lines of code and then click: <br>
 * `⌃ ~`  to open a new terminal. Alternatively, you can use Replit to play around with small snippets of code.
 * click on a word and then `⌘ d` to find and select all matching words in your code, then delete or start typing what you want to replace the word with
 fn ⌫ to reverse delete
-* `option z` toggle size to content width
+* `option z` toggle size to content width (for when you have lines that are far too long!)
 
 ### Command Line
 * `control r` to search for previously entered commands
