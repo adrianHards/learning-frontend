@@ -11,6 +11,7 @@ If you find this page helpful, please give it a star! 🌟 <strong>And remember,
 * [React](#react)
 * [CSS](#css)
 * [Vanilla JavaScript](#vanilla-javascript)
+* [Technical Questions](#technical-questions)
 * [Blogs](#blogs)
 * [Computer Science](#computer-science)
 
@@ -72,7 +73,12 @@ A JavaScript library used to produce HTML from dynamic components
 
 <p align="center"><a href="#top">⬆</a></p>
 
- ## Blogs
+## Technical Questions
+* [how does the web work?](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works) • Free 
+
+<p align="center"><a href="#top">⬆</a></p>
+
+## Blogs
 
 * 💜 [Tania Rascia](https://www.taniarascia.com/)
 > fantastically well explained tutorials, I can't recommend them enough (just be sure to check whether they've been updated recently)
