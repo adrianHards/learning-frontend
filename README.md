@@ -109,6 +109,8 @@ fn ⌫ to reverse delete
 
 ### Command Line
 * `control r` to search for previously entered commands
+* `rubocop -a` safe [RuboCop](https://docs.rubocop.org/rubocop/usage/auto_correct.html) auto-correct
+* `rubocop -A` hard RuboCop auto fix
 
 <p align="center"><a href="#top">⬆</a></p>
 
