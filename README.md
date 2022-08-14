@@ -109,7 +109,7 @@ fn ⌫ to reverse delete
 #### HTML
 * `div.classname` followed with tab will automatically generate class names with a tag
 * `pe` tab for `<%=  %>`
-* `er` for `<%  %>`
+* `er` tab for `<%  %>`
 
 ### Command Line
 * `control r` to search for previously entered commands
