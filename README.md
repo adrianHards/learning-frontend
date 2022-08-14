@@ -106,7 +106,10 @@ Within VSCode, select a line or multiple lines of code and then click: <br>
 * click on a word and then `⌘ d` to find and select all matching words in your code, then delete or start typing what you want to replace the word with
 fn ⌫ to reverse delete
 * `option z` toggle size to content width (for when you have lines that are far too long!)
-* `div.classname` followed with tab will automatically generate class names with a tag in an HTML file
+#### HTML
+* `div.classname` followed with tab will automatically generate class names with a tag
+* `pe` tab for `<%=  %>`
+* `er` for `<%  %>`
 
 ### Command Line
 * `control r` to search for previously entered commands
