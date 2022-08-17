@@ -18,9 +18,9 @@ If you find this page helpful, please give it a star! 🌟 <strong>And remember,
 
 <br>
 
-💜's are reserved for resources I've used and recommend. Some, such as Front End Masters (FEM), are paid for, but if you're eligible for the [GitHub Student Developer Pack](https://education.github.com/pack) you can get six months [free](https://frontendmasters.com/welcome/github-student-developers/)! 
-
-## Front-End
+💜's are reserved for resources I've used and recommend. Some, such as Front End Masters (FEM), are paid for, but if you're eligible for the [GitHub Student Developer Pack](https://education.github.com/pack) you can get six months [free](https://frontendmasters.com/welcome/github-student-developers/)!
+<br>
+<br>
 
 ##### Online Bootcamps
 * [FullStackOpen](https://fullstackopen.com/en/)  • Free | &nbsp; React • Redux • Node.js • MongoDB • GraphQL • TypeScript <br>
@@ -29,6 +29,8 @@ If you find this page helpful, please give it a star! 🌟 <strong>And remember,
 > more oriented towards absolute beginners
 
 <p align="center"><a href="#top">⬆</a></p>
+
+## Front-End
 
 ### React
 A JavaScript library used to produce HTML from dynamic components
