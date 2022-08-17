@@ -98,8 +98,8 @@ Personally, I will try [this](https://frontendmasters.com/courses/computer-scien
 
 ## Other
 
-### MacOS Keyboard Shortcuts
-Within VSCode, select a line or multiple lines of code and then click: <br>
+### VSCode
+Select a line or multiple lines of code and then click: <br>
 * `option arrow key` to move the code up ↑ or down ↓ a line
 * `⌘ /` to comment out your code, no matter which language you are using
 * `⇥` to indent the line(s) to the right or `⇧ ⇥` to reverse indent
