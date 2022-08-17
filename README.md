@@ -96,8 +96,7 @@ Personally, I will try [this](https://frontendmasters.com/courses/computer-scien
 
 ## Other
 
-### MacOS Keyboard Shortcuts 
-
+### MacOS Keyboard Shortcuts
 Within VSCode, select a line or multiple lines of code and then click: <br>
 * `option arrow key` to move the code up ↑ or down ↓ a line
 * `⌘ /` to comment out your code, no matter which language you are using
@@ -106,16 +105,17 @@ Within VSCode, select a line or multiple lines of code and then click: <br>
 * click on a word and then `⌘ d` to find and select all matching words in your code, then delete or start typing what you want to replace the word with
 fn ⌫ to reverse delete
 * `option z` toggle size to content width (for when you have lines that are far too long!)
-#### HTML
+### HTML
 * `div.classname` followed with tab will automatically generate class names with a tag
 * `pe` tab for `<%=  %>`
 * `er` tab for `<%  %>`
 * console.dir
-
 ### Command Line
 * `control r` to search for previously entered commands
 * `rubocop -a` safe [RuboCop](https://docs.rubocop.org/rubocop/usage/auto_correct.html) auto-correct
 * `rubocop -A` hard RuboCop auto fix (could break things)
+### Other
+* `option-cmd-i` in Chrome to access inspect
 
 <p align="center"><a href="#top">⬆</a></p>
 
