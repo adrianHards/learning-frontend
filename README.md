@@ -23,7 +23,7 @@ If you find this page helpful, please give it a star! 🌟 <strong>And remember,
 <br>
 
 ##### Online Bootcamps
-* [FullStackOpen](https://fullstackopen.com/en/)  • Free | &nbsp; React • Redux • Node.js • MongoDB • GraphQL • TypeScript <br>
+* 💜 [FullStackOpen](https://fullstackopen.com/en/)  • Free | &nbsp; React • Redux • Node.js • MongoDB • GraphQL • TypeScript <br>
 > a good place to start if you're already familiar with JavaScript or are coming from a different tech stack
 * [Odin Project](https://www.theodinproject.com/paths/full-stack-javascript) • Free | &nbsp; JavaScript • React • Node.js • MongoDB
 > more oriented towards absolute beginners
@@ -44,7 +44,7 @@ A JavaScript library used to produce HTML from dynamic components
 * [Scrimba](https://scrimba.com/learn/learnreact) • ~11+ hrs • Free
 
 ##### Challenges
-* [Frontend Mentor](https://www.frontendmentor.io/challenges) • Some Free
+* [Frontend Mentor](https://www.frontendmentor.io/challenges) • Mostly Free
 
 <p align="center"><a href="#top">⬆</a></p>
 
