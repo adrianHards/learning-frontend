@@ -39,11 +39,7 @@ A JavaScript library used to produce HTML from dynamic components
 ##### Learning
 * [Egghead](https://egghead.io/courses/the-beginner-s-guide-to-react) • ~2 ½ • Free <br>
 * [Codecademy](https://www.codecademy.com/learn/react-101) • Free <br>
-* [FEM](https://frontendmasters.com/courses/complete-react-v7/) • ~7 ½ • Subscription <br>
 * [Scrimba](https://scrimba.com/learn/learnreact) • ~11+ hrs • Free
-
-##### Challenges
-* [Frontend Mentor](https://www.frontendmentor.io/challenges) • Mostly Free
 
 <p align="center"><a href="#top">⬆</a></p>
 
@@ -61,10 +57,6 @@ A JavaScript library used to produce HTML from dynamic components
 <p align="center"><a href="#top">⬆</a></p>
 
 ## Vanilla JavaScript
-
-##### Fundamentals
-* [Fundamental to Functional JS](https://frontendmasters.com/courses/js-fundamentals-functional-v2/) • Subscription
-* [JavaScript, the Hard Parts](https://frontendmasters.com/courses/javascript-hard-parts-v2/) • Subscription
 
 ##### Technical Questions
 * 💜 [Leetcode](https://leetcode.com/) • Free 
@@ -94,18 +86,6 @@ A contentious topic for Bootcamp graduates, and one I'm not well qualified to ta
 Personally, I will try [this](https://frontendmasters.com/courses/computer-science-v2/) course by FEM, but at the moment I don't think it's the best use of my time.
 
 <p align="center"><a href="#top">⬆</a></p>
-
-## Other
-* console.dir
-### Command Line
-* `control r` to search for previously entered commands
-* `rubocop -a` safe [RuboCop](https://docs.rubocop.org/rubocop/usage/auto_correct.html) auto-correct
-* `rubocop -A` hard RuboCop auto fix (could break things)
-### Other
-* `option-cmd-i` in Chrome to access inspect
-
-<p align="center"><a href="#top">⬆</a></p>
-
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=adrianHards/resources-js" id="counter">
