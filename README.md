@@ -35,7 +35,6 @@ If you find this page helpful, please give it a star! 🌟 <strong>And remember,
 ### React
 A JavaScript library used to produce HTML from dynamic components
 ##### Cheatsheets
-* [freeCodeCamp](https://www-freecodecamp-org.cdn.ampproject.org/c/s/www.freecodecamp.org/news/the-react-cheatsheet/amp/#react-elements) • Free
 
 ##### Learning
 * [Egghead](https://egghead.io/courses/the-beginner-s-guide-to-react) • ~2 ½ • Free <br>
