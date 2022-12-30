@@ -25,8 +25,8 @@ If you find this page helpful, please give it a star! 🌟 <strong>And remember,
 ### Online Bootcamps
 * 💜 [FullStackOpen](https://fullstackopen.com/en/)  • Free | &nbsp; React • Redux • Node.js • MongoDB • GraphQL • TypeScript <br>
 > a good place to start if you're already familiar with JavaScript or are coming from a different tech stack
-* [Odin Project](https://www.theodinproject.com/paths/full-stack-javascript) • Free | &nbsp; JavaScript • React • Node.js • MongoDB
-> more oriented towards absolute beginners (complete the foundation section and then consider switching to FullStackOpen)
+* 💜 [Odin Project](https://www.theodinproject.com/paths/full-stack-javascript) • Free | &nbsp; JavaScript • React • Node.js • MongoDB
+> more oriented towards absolute beginners. Written well, and therefore nice for revision. 
 
 <p align="center"><a href="#top">⬆</a></p>
 
