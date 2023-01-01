@@ -60,7 +60,7 @@ A JavaScript library used to produce HTML from dynamic components
 
 ##### Technical Questions
 * 💜 [Leetcode](https://leetcode.com/) • Free 
-* Get comfortable with technical assessment sites used by larger companies like [Codility](https://app.codility.com/programmers/lessons) and [CoderByte](https://coderbyte.com/)
+* Get comfortable with technical assessment sites like [Codility](https://app.codility.com/programmers/lessons) and [CoderByte](https://coderbyte.com/) that are used by larger companies.
 
 ##### Please explain ...
 * [classes](https://www.freecodecamp.org/news/javascript-classes-how-they-work-with-use-case/#what-are-classes-in-javascript) • Free 
