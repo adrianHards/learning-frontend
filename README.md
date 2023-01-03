@@ -59,7 +59,8 @@ A JavaScript library used to produce HTML from dynamic components
 ## Vanilla JavaScript
 
 ##### Technical Questions
-* 💜 [Leetcode](https://leetcode.com/) • Free 
+* 💜 [Leetcode](https://leetcode.com/) • Free
+* 💜 [Code Signal](https://app.codesignal.com/arcade/code-arcade/at-the-crossroads) • Free
 * Get comfortable with technical assessment sites like [Codility](https://app.codility.com/programmers/lessons) and [CoderByte](https://coderbyte.com/) that are used by larger companies.
 
 ##### Please explain ...
