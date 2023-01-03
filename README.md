@@ -67,6 +67,9 @@ A JavaScript library used to produce HTML from dynamic components
 * [classes](https://www.freecodecamp.org/news/javascript-classes-how-they-work-with-use-case/#what-are-classes-in-javascript) • Free 
 * [time to interactive](https://www.builder.io/blog/the-ultimate-guide-to-optimizing-javascript-for-quick-page-loads) • Free 
 
+##### console
+* [console.dir](https://developer.mozilla.org/en-US/docs/Web/API/console/dir)
+
 <p align="center"><a href="#top">⬆</a></p>
 
 ## Technical Questions
