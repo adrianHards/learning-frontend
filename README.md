@@ -10,7 +10,7 @@ If you find this page helpful, please give it a star! 🌟 <strong>And remember,
 
 * [React](#react)
 * [CSS](#css)
-* [Vanilla JavaScript](#vanilla-javascript)
+* [Vanilla JavaScript/Coding Challenges](#vanilla-javascript)
 * [Technical Questions](#technical-questions)
 * [Blogs](#blogs)
 * [Computer Science](#computer-science)
