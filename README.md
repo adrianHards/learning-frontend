@@ -9,12 +9,12 @@ If you find this page helpful, please give it a star! 🌟 <strong>And remember,
 ## Table of Contents
 
 * [React](#react)
+* [Hotwire](#hotwire)
 * [CSS](#css)
 * [Vanilla JavaScript/Coding Challenges](#vanilla-javascript)
 * [Technical Questions](#technical-questions)
 * [Blogs](#blogs)
 * [Computer Science](#computer-science)
-* [Other](#other)
 
 <br>
 
@@ -34,12 +34,19 @@ If you find this page helpful, please give it a star! 🌟 <strong>And remember,
 
 ### React
 A JavaScript library used to produce HTML from dynamic components
-##### Cheatsheets
 
 ##### Learning
 * [Egghead](https://egghead.io/courses/the-beginner-s-guide-to-react) • ~2 ½ • Free <br>
 * [Codecademy](https://www.codecademy.com/learn/react-101) • Free <br>
 * [Scrimba](https://scrimba.com/learn/learnreact) • ~11+ hrs • Free
+
+<p align="center"><a href="#top">⬆</a></p>
+
+### Hotwire
+Turbo and Stimulus. Sending HTML instead of JSON over the wire. 
+
+##### Learning
+* [Hotrails](https://www.hotrails.dev/)
 
 <p align="center"><a href="#top">⬆</a></p>
 
