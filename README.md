@@ -47,6 +47,7 @@ Turbo and Stimulus. Sending HTML instead of JSON over the wire.
 
 ##### Learning
 * [Hotrails](https://www.hotrails.dev/)
+* 💜 Odin Project [Turbo Drive](https://www.theodinproject.com/lessons/ruby-on-rails-turbo-drive) and [Turbo](https://www.theodinproject.com/lessons/ruby-on-rails-turbo) pages
 
 <p align="center"><a href="#top">⬆</a></p>
 
