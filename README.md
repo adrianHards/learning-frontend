@@ -74,6 +74,7 @@ Turbo and Stimulus. Sending HTML instead of JSON over the wire.
 ##### Please explain ...
 * [classes](https://www.freecodecamp.org/news/javascript-classes-how-they-work-with-use-case/#what-are-classes-in-javascript) • Free 
 * [time to interactive](https://www.builder.io/blog/the-ultimate-guide-to-optimizing-javascript-for-quick-page-loads) • Free 
+* [event loop](https://www.youtube.com/watch?v=8aGhZQkoFbQ) • Free • Video
 
 ##### console
 * [console.dir](https://developer.mozilla.org/en-US/docs/Web/API/console/dir)
