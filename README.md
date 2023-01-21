@@ -40,6 +40,9 @@ A JavaScript library used to produce HTML from dynamic components
 * [Codecademy](https://www.codecademy.com/learn/react-101) • Free <br>
 * [Scrimba](https://scrimba.com/learn/learnreact) • ~11+ hrs • Free
 
+##### Suggested Projects
+* [Portfolio](https://github.com/gitname/react-gh-pages)
+
 <p align="center"><a href="#top">⬆</a></p>
 
 ### Hotwire
