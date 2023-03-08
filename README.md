@@ -59,6 +59,7 @@ Turbo and Stimulus. Sending HTML instead of JSON over the wire.
 ##### References
 * 💜 [CSS & HTML standards](https://codeguide.co/) • Free
 * 💜 [cssreference](https://cssreference.io/) • Free
+* 💜 [Naming Conventions](https://www.freecodecamp.org/news/css-naming-conventions-that-will-save-you-hours-of-debugging-35cea737d849/) • Free
 * [flexbox](https://tobiasahlin.com/blog/common-flexbox-patterns/)
 
 ##### Challenges
