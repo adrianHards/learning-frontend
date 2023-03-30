@@ -77,9 +77,9 @@ Turbo and Stimulus. Sending HTML instead of JSON over the wire.
 * Get comfortable with technical assessment sites like [Codility](https://app.codility.com/programmers/lessons) and [CoderByte](https://coderbyte.com/) that are used by larger companies.
 
 ##### Please explain ...
-* [classes](https://www.freecodecamp.org/news/javascript-classes-how-they-work-with-use-case/#what-are-classes-in-javascript) • Free 
-* [time to interactive](https://www.builder.io/blog/the-ultimate-guide-to-optimizing-javascript-for-quick-page-loads) • Free 
-* [event loop](https://www.youtube.com/watch?v=8aGhZQkoFbQ) • Free • Video
+* [classes](https://www.freecodecamp.org/news/javascript-classes-how-they-work-with-use-case/#what-are-classes-in-javascript)
+* [time to interactive](https://developer.chrome.com/en/docs/lighthouse/performance/interactive/)
+* [event loop](https://www.youtube.com/watch?v=8aGhZQkoFbQ) • Video
 
 ##### console
 * [console.dir](https://developer.mozilla.org/en-US/docs/Web/API/console/dir)
@@ -104,9 +104,10 @@ A contentious topic for Bootcamp graduates, and one I'm not well qualified to ta
 
 <p align="center"><a href="#top">⬆</a></p>
 
+<!--- 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=adrianHards/resources-js" id="counter">
 </p>
-
+--->
 
 
