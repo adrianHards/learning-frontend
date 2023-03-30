@@ -100,7 +100,7 @@ Turbo and Stimulus. Sending HTML instead of JSON over the wire.
 
 ## Computer Science
 
-A contentious topic for Bootcamp graduates, and one I'm not well qualified to talk about. The general consensus (i.e. what Reddit says) seems to be that there several important concepts to learn with [some](https://benmccormick.org/2018/02/20/cs-for-fe/) being more important than others. [CS50](https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0) is probably a good place to start. 
+A contentious topic for Bootcamp graduates, and one I'm not well qualified to talk about. The general consensus (i.e. what Reddit says) seems to be that there several important concepts to learn with [some](https://benmccormick.org/2018/02/20/cs-for-fe/) being more important than others. [CS50](https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0) is probably a good place to start. Something more [targeted](https://leetcode.com/explore/interview/card/leetcodes-interview-crash-course-data-structures-and-algorithms/) might a better use of one's time, however.
 
 <p align="center"><a href="#top">⬆</a></p>
 
