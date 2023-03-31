@@ -27,7 +27,7 @@ A collection of free front-end, JavaScript-centric, resources. I recommend start
 <p align="right"><a href="#top">up</a></p>
 
 ## React
-A JavaScript library used to produce HTML from dynamic components. Start with the updated [docs](https://beta.reactjs.org/)! After, you might want to consider looking in to frameworks, such as [Next.js](https://nextjs.org/). 
+A JavaScript library used to produce HTML from dynamic components. Start with the updated [docs](https://beta.reactjs.org/) 💜! After, you might want to consider looking in to frameworks, such as [Next.js](https://nextjs.org/). 
 
 ##### Learning Resources
 * [Scrimba](https://scrimba.com/learn/learnreact) • ~11+ hrs • Free 💜
