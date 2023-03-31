@@ -34,7 +34,7 @@ If you find this page helpful, please give it a star! 🌟 <strong>And remember,
 ## Front-End
 
 ### React
-A JavaScript library used to produce HTML from dynamic components. Start with the updated [docs](https://beta.reactjs.org/)! After, you might want to consider looking in to [Next.js](https://nextjs.org/). 
+A JavaScript library used to produce HTML from dynamic components. Start with the updated [docs](https://beta.reactjs.org/)! After, you might want to consider looking in to frameworks, such as [Next.js](https://nextjs.org/). 
 
 ##### Learning
 * [Egghead](https://egghead.io/courses/the-beginner-s-guide-to-react) • ~2 ½ • Free <br>
