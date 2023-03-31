@@ -1,6 +1,6 @@
 <div hidden id="top"></div>
 
-# Front-End Resources
+# Front-End Resources (for Experienced Beginners)
 
 A collection of free front-end, JavaScript-centric, resources. I recommend starting with this [roadmap](https://roadmap.sh/frontend) 💜. You'll often see Udemy courses being recommended, and while they might be great, they cost money and there seems to be plenty of great free material out there so I won't mention them here.
 <br>
