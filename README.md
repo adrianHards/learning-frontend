@@ -65,6 +65,7 @@ Turbo and Stimulus. Sending HTML instead of JSON over the wire.
 ## Vanilla JavaScript
 
 ##### Learning Resources
+* [Eloquent JavaScript](https://eloquentjavascript.net/)
 * [JavaScript 30](https://javascript30.com/)
 
 ##### Technical Questions
