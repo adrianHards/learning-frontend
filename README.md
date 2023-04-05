@@ -19,9 +19,9 @@ A collection of free front-end, JavaScript-centric, resources. I recommend start
 * [Computer Science](#computer-science)
 
 ## Online Bootcamps
-* [FullStackOpen](https://fullstackopen.com/en/)  • Free | &nbsp; React • Redux • Node.js • MongoDB • GraphQL • TypeScript <br>
+* [FullStackOpen](https://fullstackopen.com/en/)  • React • Redux • Node.js • MongoDB • GraphQL • TypeScript <br>
 > a good place to start if you're already familiar with JavaScript or are coming from a different tech stack
-* [Odin Project](https://www.theodinproject.com/paths/full-stack-javascript) • Free | &nbsp; JavaScript • React • Node.js • MongoDB 💜
+* [Odin Project](https://www.theodinproject.com/paths/full-stack-javascript) • JavaScript • React • Node.js • MongoDB 💜
 > more oriented towards absolute beginners. Written well and nice for revision. 
 
 <p align="right"><a href="#top">up</a></p>
@@ -30,9 +30,9 @@ A collection of free front-end, JavaScript-centric, resources. I recommend start
 A JavaScript library used to produce HTML from dynamic components. Start with the updated [docs](https://beta.reactjs.org/) 💜! After, you might want to consider looking in to frameworks, such as [Next.js](https://nextjs.org/). 
 
 ##### Learning Resources
-* [Scrimba](https://scrimba.com/learn/learnreact) • ~11+ hrs • Free 💜
-* [Egghead](https://egghead.io/courses/the-beginner-s-guide-to-react) • ~2 ½ • Free <br>
-* [Codecademy](https://www.codecademy.com/learn/react-101) • Free <br>
+* [Scrimba](https://scrimba.com/learn/learnreact) • ~11+ hrs 💜
+* [Egghead](https://egghead.io/courses/the-beginner-s-guide-to-react) • ~2 ½ <br>
+* [Codecademy](https://www.codecademy.com/learn/react-101) <br>
 
 ##### Suggested Projects
 * [Portfolio](https://github.com/gitname/react-gh-pages) 💜
@@ -51,14 +51,14 @@ Turbo and Stimulus. Sending HTML instead of JSON over the wire.
 ## CSS
 
 ##### References
-* [CSS & HTML standards](https://codeguide.co/) • Free 💜
-* [cssreference](https://cssreference.io/) • Free 💜
-* [Naming Conventions](https://www.freecodecamp.org/news/css-naming-conventions-that-will-save-you-hours-of-debugging-35cea737d849/) • Free 💜
+* [CSS & HTML standards](https://codeguide.co/) 💜
+* [cssreference](https://cssreference.io/) 💜
+* [Naming Conventions](https://www.freecodecamp.org/news/css-naming-conventions-that-will-save-you-hours-of-debugging-35cea737d849/) 💜
 * [flexbox](https://tobiasahlin.com/blog/common-flexbox-patterns/)
 
 ##### Challenges
-* [FlexboxFroggy](https://flexboxfroggy.com/) • Free
-* [CSSBattle](https://cssbattle.dev/) • Free
+* [FlexboxFroggy](https://flexboxfroggy.com/)
+* [CSSBattle](https://cssbattle.dev/)
 
 <p align="right"><a href="#top">up</a></p>
 
@@ -69,7 +69,7 @@ Turbo and Stimulus. Sending HTML instead of JSON over the wire.
 * [JavaScript 30](https://javascript30.com/)
 
 ##### Technical Questions
-* [Leetcode](https://leetcode.com/) • Free 💜
+* [Leetcode](https://leetcode.com/) 💜
 * Get comfortable with technical assessment sites like Code Signal, [Codility](https://app.codility.com/programmers/lessons) and [CoderByte](https://coderbyte.com/) that are used by larger companies.
 
 ##### Please explain ...
@@ -83,7 +83,7 @@ Turbo and Stimulus. Sending HTML instead of JSON over the wire.
 <p align="right"><a href="#top">up</a></p>
 
 ## Technical Questions
-* [how does the web work?](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works) • Free 
+* [how does the web work?](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works)
 
 <p align="right"><a href="#top">up</a></p>
 
