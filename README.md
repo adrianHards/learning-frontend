@@ -29,6 +29,9 @@ A collection of free front-end, JavaScript-centric, resources. I recommend start
 ## React
 A JavaScript library used to produce HTML from dynamic components. Start with the updated [docs](https://beta.reactjs.org/) 💜! After, you might want to consider looking in to frameworks, such as [Next.js](https://nextjs.org/). 
 
+##### Setup
+- with [Vite](https://github.com/adrianHards/vuejs-guide)
+
 ##### Learning Resources
 * [Scrimba](https://scrimba.com/learn/learnreact) • ~11+ hrs 💜
 * [Egghead](https://egghead.io/courses/the-beginner-s-guide-to-react) • ~2 ½ <br>
