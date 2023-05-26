@@ -105,7 +105,7 @@ Just remember, you'll eventually want to learn [TypeScript](https://www.typescri
 
 ## Computer Science
 
-A contentious topic for Bootcamp graduates, and one I'm not well qualified to talk about. The general consensus (i.e. what Reddit says) seems to be that there several important concepts to learn with [some](https://benmccormick.org/2018/02/20/cs-for-fe/) being more important than others. [CS50](https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0) is probably a good place to start. Something more [targeted](https://leetcode.com/explore/interview/card/leetcodes-interview-crash-course-data-structures-and-algorithms/) might a better use of one's time, however.
+A contentious topic for Bootcamp graduates, and one I'm not well qualified to talk about. The general consensus (i.e. what Reddit says) seems to be that there several important concepts to learn with [some](https://benmccormick.org/2018/02/20/cs-for-fe/) being more important than others. [CS50](https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0) is probably a good place to start. Something more [targeted](https://leetcode.com/explore/interview/card/leetcodes-interview-crash-course-data-structures-and-algorithms/) might a better use of one's time, however. There's also plenty of nice [free stuff](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) of course. 
 
 <p align="right"><a href="#top">up</a></p>
 
