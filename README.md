@@ -43,7 +43,7 @@ A JavaScript library used to produce HTML from dynamic components. Start with th
 <p align="right"><a href="#top">up</a></p>
 
 ### Hotwire
-Turbo and Stimulus. Sending HTML instead of JSON over the wire. 
+Turbo and Stimulus, if you're prefer to stick with something more Rails-y.
 
 ##### Learning Resources
 * [Hotrails](https://www.hotrails.dev/)
