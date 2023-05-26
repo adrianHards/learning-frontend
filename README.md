@@ -29,15 +29,17 @@ Some sections are incomplete (🚧). 💜's are reserved for resources I've used
 ## React
 A JavaScript library used to produce HTML from dynamic components. Start with the updated [docs](https://beta.reactjs.org/) 💜! After, you might want to consider looking in to frameworks, such as [Next.js](https://nextjs.org/). 
 
-##### Setup
-- with [Vite](/vite.md); **note** these instructions are for Vue but the setup for React is generally the same
+#### Setup
+But what about `Create React App`? Read [this](https://scrimba.com/articles/create-react-app-with-vite/) for why you might want to use Vite instead. 
+- [Official Vite Guide](https://vitejs.dev/guide/)
+- my own [guide](/vite.md); **note** these instructions are for Vue but the setup for React is generally the same
 
-##### Learning Resources
+#### Learning Resources
 * [Scrimba](https://scrimba.com/learn/learnreact) • ~11+ hrs 💜
 * [Egghead](https://egghead.io/courses/the-beginner-s-guide-to-react) • ~2 ½ <br>
 * [Codecademy](https://www.codecademy.com/learn/react-101) <br>
 
-##### Suggested Projects
+#### Suggested Projects
 * [Portfolio](https://github.com/gitname/react-gh-pages) 💜
 
 <p align="right"><a href="#top">up</a></p>
@@ -45,7 +47,7 @@ A JavaScript library used to produce HTML from dynamic components. Start with th
 ### Hotwire
 Turbo and Stimulus, if you're prefer to stick with something more Rails-y.
 
-##### Learning Resources
+#### Learning Resources
 * [Hotrails](https://www.hotrails.dev/)
 * Odin Project [Turbo Drive](https://www.theodinproject.com/lessons/ruby-on-rails-turbo-drive) and [Turbo](https://www.theodinproject.com/lessons/ruby-on-rails-turbo) pages 💜
 
@@ -53,13 +55,13 @@ Turbo and Stimulus, if you're prefer to stick with something more Rails-y.
 
 ## CSS
 
-##### References
+#### References
 * [CSS & HTML standards](https://codeguide.co/) 💜
 * [cssreference](https://cssreference.io/) 💜
 * [Naming Conventions](https://www.freecodecamp.org/news/css-naming-conventions-that-will-save-you-hours-of-debugging-35cea737d849/) 💜
 * [flexbox](https://tobiasahlin.com/blog/common-flexbox-patterns/)
 
-##### Challenges
+#### Challenges
 * [FlexboxFroggy](https://flexboxfroggy.com/)
 * [CSSBattle](https://cssbattle.dev/)
 
@@ -68,23 +70,22 @@ Turbo and Stimulus, if you're prefer to stick with something more Rails-y.
 ## Vanilla JavaScript
 Just remember, you'll eventually want to learn [TypeScript](https://www.typescriptlang.org/docs/) but it's worth getting comfortable with JS first. 
 
-##### Learning Resources
+#### Learning Resources
 * [Eloquent JavaScript](https://eloquentjavascript.net/)
-* [JavaScript 30](https://javascript30.com/)
 
-##### Technical Questions
+#### Technical Questions
 * [Leetcode](https://leetcode.com/) 💜
 * Get comfortable with technical assessment sites like Code Signal, [Codility](https://app.codility.com/programmers/lessons) and [CoderByte](https://coderbyte.com/) that are used by larger companies.
 
-##### Please explain ... 🚧
+#### Please explain ... 🚧
 * [classes](https://www.freecodecamp.org/news/javascript-classes-how-they-work-with-use-case/#what-are-classes-in-javascript)
 * [time to interactive](https://developer.chrome.com/en/docs/lighthouse/performance/interactive/)
 * [event loop](https://www.youtube.com/watch?v=8aGhZQkoFbQ) • Video 💜
 
-##### console 🚧
+#### console 🚧
 * [console.dir](https://developer.mozilla.org/en-US/docs/Web/API/console/dir)
 
-##### TypeScript
+#### TypeScript
 * [TypeScript Official](https://www.typescriptlang.org/docs/)
 * [Scrimba](https://scrimba.com/learn/typescript)
 * [Codecademy](https://www.codecademy.com/learn/learn-typescript)
