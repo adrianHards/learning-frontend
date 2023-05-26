@@ -2,10 +2,10 @@
 
 # Front-End Resources
 
-A collection of free front-end, JavaScript-centric, resources. I recommend starting with this [roadmap](https://roadmap.sh/frontend) 💜. You'll often see Udemy courses being recommended, and while I'm sure they're great, they cost money and there seems to be plenty of great free material out there so I won't bother mentioning them here.
+A collection of free front-end, JavaScript-centric, resources. I recommend starting with this [roadmap](https://roadmap.sh/frontend) 💜. You'll often see Udemy courses being recommended, and while I'm sure they're great, they cost money and there seems to be plenty of great free material out there so I won't bother mentioning them here. 
 <br>
 <br>
-💜's are reserved for resources I've used and recommend. If you find this page helpful, please give it a star! 🌟 <strong>And remember, build as much as you can!</strong>
+Some sections are incomplete (🚧). 💜's are reserved for resources I've used and recommend. If you find this page helpful, please give it a star! 🌟 <strong>And remember, build as much as you can!</strong>
 <br>
 
 ## Table of Contents
@@ -76,12 +76,12 @@ Just remember, you'll eventually want to learn [TypeScript](https://www.typescri
 * [Leetcode](https://leetcode.com/) 💜
 * Get comfortable with technical assessment sites like Code Signal, [Codility](https://app.codility.com/programmers/lessons) and [CoderByte](https://coderbyte.com/) that are used by larger companies.
 
-##### Please explain ...
+##### Please explain ... 🚧
 * [classes](https://www.freecodecamp.org/news/javascript-classes-how-they-work-with-use-case/#what-are-classes-in-javascript)
 * [time to interactive](https://developer.chrome.com/en/docs/lighthouse/performance/interactive/)
 * [event loop](https://www.youtube.com/watch?v=8aGhZQkoFbQ) • Video 💜
 
-##### console
+##### console 🚧
 * [console.dir](https://developer.mozilla.org/en-US/docs/Web/API/console/dir)
 
 ##### TypeScript
@@ -91,7 +91,7 @@ Just remember, you'll eventually want to learn [TypeScript](https://www.typescri
 
 <p align="right"><a href="#top">up</a></p>
 
-## Technical Questions
+## Technical Questions 🚧
 * [how does the web work?](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works)
 
 <p align="right"><a href="#top">up</a></p>
