@@ -66,7 +66,7 @@ Turbo and Stimulus, if you're prefer to stick with something more Rails-y.
 <p align="right"><a href="#top">up</a></p>
 
 ## Vanilla JavaScript
-Just remember, you'll eventually want to learn [TypeScript](https://www.typescriptlang.org/docs/) but arguably it's worth getting comfortable with JS first. 
+Just remember, you'll eventually want to learn [TypeScript](https://www.typescriptlang.org/docs/) but it's worth getting comfortable with JS first. 
 
 ##### Learning Resources
 * [Eloquent JavaScript](https://eloquentjavascript.net/)
