@@ -2,7 +2,7 @@
 
 # Front-End Resources
 
-A collection of free front-end, JavaScript-centric, resources. I recommend starting with this [roadmap](https://roadmap.sh/frontend) 💜. You'll often see Udemy courses being recommended, and while I'm sure they're great, they cost money and there seems to be plenty of great free material out there so I won't bother mentioning them here. 
+A collection of free front-end, JavaScript-centric, resources. I recommend starting with this [roadmap](https://roadmap.sh/frontend) 💜. You'll often see Udemy courses being recommended, and while I'm sure they're great, they cost money and there seems to be plenty of great free material out there so I won't bother mentioning them here. I'm generally a big fan of [FreeCodeCamp](https://www.freecodecamp.org/), but I'm a bit lost as to how best to navigate their resources a lot of the time. Regardless, it's still worth checking for any up-to-date guides. 
 <br>
 <br>
 Some sections are incomplete (🚧). 💜's are reserved for resources I've used and recommend. If you find this page helpful, please give it a star! 🌟 <strong>And remember, build as much as you can!</strong>
