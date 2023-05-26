@@ -31,7 +31,7 @@ A JavaScript library used to produce HTML from dynamic components. Start with th
 
 #### Setup
 But what about `Create React App`? Read [this](https://scrimba.com/articles/create-react-app-with-vite/) for why you might want to use Vite instead. 
-- [Official Vite Guide](https://vitejs.dev/guide/)
+- [Vite Official](https://vitejs.dev/guide/)
 - my own [guide](/vite.md); **note** these instructions are for Vue but the setup for React is generally the same
 
 #### Learning Resources
