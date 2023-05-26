@@ -84,6 +84,11 @@ Just remember, you'll eventually want to learn [TypeScript](https://www.typescri
 ##### console
 * [console.dir](https://developer.mozilla.org/en-US/docs/Web/API/console/dir)
 
+##### TypeScript
+* [TypeScript Official](https://www.typescriptlang.org/docs/)
+* [Scrimba](https://scrimba.com/learn/typescript)
+* [Codecademy](https://www.codecademy.com/learn/learn-typescript)
+
 <p align="right"><a href="#top">up</a></p>
 
 ## Technical Questions
