@@ -72,6 +72,7 @@ Just remember, you'll eventually want to learn [TypeScript](https://www.typescri
 
 #### Learning Resources
 * [Eloquent JavaScript](https://eloquentjavascript.net/)
+* [JavaScript.info](https://javascript.info/)
 
 #### Technical Questions
 * [Leetcode](https://leetcode.com/) 💜
