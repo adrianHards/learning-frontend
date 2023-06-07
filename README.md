@@ -112,6 +112,8 @@ A contentious topic for Bootcamp graduates, and one I'm not well qualified to ta
 
 ## Node
 A bit off topic, this is more for me to store useful links and what not. 
+- [closures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures#lexical_scoping)
 - [implementing modules in Node](https://www.codecademy.com/courses/learn-node-js/articles/implementing-modules-in-node)
 
+<p align="right"><a href="#top">up</a></p>
 
