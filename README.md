@@ -110,11 +110,8 @@ A contentious topic for Bootcamp graduates, and one I'm not well qualified to ta
 
 <p align="right"><a href="#top">up</a></p>
 
-<!--- 
-Some, such as Front End Masters (FEM), are paid for, but if you're eligible for the [GitHub Student Developer Pack](https://education.github.com/pack) you can get six months [free](https://frontendmasters.com/welcome/github-student-developers/)!
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=adrianHards/resources-js" id="counter">
-</p>
---->
+## Node
+A bit off topic, this is more for me to store useful links and what not. 
+- [implementing modules in Node](https://www.codecademy.com/courses/learn-node-js/articles/implementing-modules-in-node)
 
 
