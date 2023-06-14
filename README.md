@@ -82,6 +82,8 @@ Just remember, you'll eventually want to learn [TypeScript](https://www.typescri
 * [classes](https://www.freecodecamp.org/news/javascript-classes-how-they-work-with-use-case/#what-are-classes-in-javascript)
 * [time to interactive](https://developer.chrome.com/en/docs/lighthouse/performance/interactive/)
 * [event loop](https://www.youtube.com/watch?v=8aGhZQkoFbQ) • Video 💜
+* [how the web works](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works)
+* [http requests](https://www.freecodecamp.org/news/http-request-methods-explained/)
 
 #### console 🚧
 * [console.dir](https://developer.mozilla.org/en-US/docs/Web/API/console/dir)
@@ -94,7 +96,6 @@ Just remember, you'll eventually want to learn [TypeScript](https://www.typescri
 <p align="right"><a href="#top">up</a></p>
 
 ## Technical Questions 🚧
-* [how does the web work?](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works)
 
 <p align="right"><a href="#top">up</a></p>
 
