@@ -30,9 +30,9 @@ Some sections are incomplete (🚧). 💜's are reserved for resources I've used
 A JavaScript library used to produce HTML from dynamic components. Start with the updated [docs](https://beta.reactjs.org/) 💜! After, you might want to consider looking in to frameworks, such as [Next.js](https://nextjs.org/). 
 
 #### Setup
-But what about `Create React App`? Read [this](https://scrimba.com/articles/create-react-app-with-vite/) for why you might want to use Vite instead. 
 - [Vite Official](https://vitejs.dev/guide/)
 - my own [guide](/vite.md); **note** these instructions are for Vue but the setup for React is generally the same
+But what about `Create React App`? Read [this](https://scrimba.com/articles/create-react-app-with-vite/) for why you might want to use Vite instead. 
 
 #### Learning Resources
 * [Scrimba](https://scrimba.com/learn/learnreact) • ~11+ hrs 💜
