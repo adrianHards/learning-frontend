@@ -108,7 +108,7 @@ Just remember, you'll eventually want to learn [TypeScript](https://www.typescri
 
 ## Other
 
-Start learning about and using [Docker](https://github.com/acantril/docker-fundamentals)! The official tutorial is also a great place to start. 
+Start learning about and using 💜 [Docker](https://github.com/acantril/docker-fundamentals)! The official tutorial is also a great place to start. 
 
 <p align="right"><a href="#top">up</a></p>
 
