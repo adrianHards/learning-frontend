@@ -51,65 +51,98 @@ pnpm run dev
   
   <br>
   
-  ### Step 1
-  ```bash
-  pnpm install eslint eslint-config-prettier eslint-plugin-prettier --save-dev
-  pnpm eslint --init
-  ```
-  
-  #### Preferred Options:
-  1. How would you like to use ESLint? `check syntax, find problems`
-  2. What type of modules does your project use? `JavaScript modules (import/export)`
-  3. Which framework does your project use? `Vue.js`
-  4. Does your project use TypeScript? `Yes`
-  5. Where does your code run? `Browser`
-  6. Which format do you want your config file to be in? `JSON`
-  7. Choose to install `eslint-plugin-vue@latest @typescript-eslint/eslint-plugin@latest @typescript-eslint/parser@latest`
-  
-  
-  ### Step 2
-  Tell ESLint to enforce Prettier rules alongside ESLint rules
-  ```
-  # .eslintrc.json
+## Setting up ESLint and Prettier
+
+### Step 1: Installation
+
+Run the following commands:
+
+```
+pnpm install eslint eslint-config-prettier eslint-plugin-prettier --save-dev
+pnpm run eslint --init
+```
+
+**Preferred Options**:
+
+- **How would you like to use ESLint?** 
+  - `check syntax, find problems`
+- **What type of modules does your project use?** 
+  - `JavaScript modules (import/export)`
+- **Which framework does your project use?** 
+  - `Vue.js`
+- **Does your project use TypeScript?** 
+  - `Yes`
+- **Where does your code run?** 
+  - `Browser`
+- **Which format do you want your config file to be in?** 
+  - `JSON`
+- **Plugins**: 
+  - Install `eslint-plugin-vue@latest`, `@typescript-eslint/eslint-plugin@latest`, and `@typescript-eslint/parser@latest`
+
+### Step 2: ESLint Configuration
+
+Update your .eslintrc.json with:
+
+```
+{
   "extends": ["plugin:prettier/recommended"],
-  "plugins": ["prettier"],
-  ```
-  
-  ### Step 3
-  ### Customise Prettier
-   `echo {}> .prettierrc.json`
-  
-  ```bash
-  # .prettierrc.json
-  {
+  "plugins": ["prettier"]
+}
+```
+
+### Step 3: Prettier Configuration
+
+Run the command to create and populate your Prettier configuration:
+
+```
+echo '{n"trailingComma": "none",n"tabWidth": 2,n"semi": true,n"singleQuote": truen}' > .prettierrc.json
+```
+
+Your .prettierrc.json should look like:
+
+```
+{
   "trailingComma": "none",
   "tabWidth": 2,
   "semi": true,
   "singleQuote": true
-  } 
-  ```
-  
-  #### Ignore certain files
-  `touch .prettierignore .eslintignore` and copy paste the following into both files:
-  
-  ```bash
-  node_modules
-  package.lock.json
-  build
-  ```
-  
-  #### Run scripts
-  ```bash
-  # package.json
-  "scripts": {
+}
+```
+
+### Step 4: Ignore certain files
+
+Run these commands to create and populate .prettierignore and .eslintignore:
+
+```
+echo "node_modulesnpackage.lock.json\nbuild" > .prettierignore
+echo "node_modules\npackage.lock.json\nbuild" > .eslintignore
+```
+
+### Step 5: Add Run Scripts
+
+Update the scripts section of your package.json to:
+
+```
+"scripts": {
   "lint": "eslint .",
   "format": "prettier --write ."
-  }
-  ```
+}
+```
+
+**Execution**:
+
+- To check for ESLint errors:
+
+```
+pnpm run lint
+```
   
-  You can now run the following:
-  - `pnpm run lint` check for ESLint errors
-  - `pnpm run format` format with Prettier
+- To format with Prettier:
+
+```
+pnpm run format
+```
+
 
   <br>
   
