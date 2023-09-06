@@ -108,7 +108,7 @@ Just remember, you'll eventually want to learn [TypeScript](https://www.typescri
 
 ## Other
 
-Start learning about and using 💜 [Docker](https://github.com/acantril/docker-fundamentals)! The official tutorial is also a great place to start. 
+Start learning about and using 💜 [Docker](https://github.com/acantril/docker-fundamentals)! The official tutorial is also a great place to start. I also recommend these resources from [FreeCodeCamp](https://www.freecodecamp.org/news/a-beginner-friendly-introduction-to-containers-vms-and-docker-79a9e3e119b/) and [IBM](https://www.ibm.com/topics/docker) for written introductions to Docker. 
 
 <p align="right"><a href="#top">up</a></p>
 
