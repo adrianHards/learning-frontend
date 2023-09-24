@@ -27,13 +27,13 @@ Some sections are incomplete (🚧). 💜's are reserved for resources I've used
 <p align="right"><a href="#top">up</a></p>
 
 ## React
-A JavaScript library used to produce HTML from dynamic components. Start with the updated [docs](https://beta.reactjs.org/) 💜! After, you might want to consider looking in to frameworks, such as [Next.js](https://nextjs.org/). 
+A JavaScript library used to produce HTML from dynamic components. Start with the recently updated [docs](https://beta.reactjs.org/) 💜! I also think NextJS' brief [tutorial](https://nextjs.org/learn/foundations/from-javascript-to-react) is a great place to start. After that, you might want to consider looking in to frameworks, such as [Next.js](https://nextjs.org/). 
 
 #### Setup
 - [Vite Official](https://vitejs.dev/guide/)
-- my own [guide](/vite.md); **note** these instructions are for Vue but the setup for React is generally the same
-But what about `Create React App`? Read [this](https://scrimba.com/articles/create-react-app-with-vite/) for why you might want to use Vite instead. 
+- [NextJS](https://nextjs.org/learn/basics/create-nextjs-app/setup)
 
+But what about `Create React App`? Read [this](https://scrimba.com/articles/create-react-app-with-vite/) for why you might not want to use it. 
 #### Learning Resources
 * [Scrimba](https://scrimba.com/learn/learnreact) • ~11+ hrs 💜
 * [Egghead](https://egghead.io/courses/the-beginner-s-guide-to-react) • ~2 ½ <br>
