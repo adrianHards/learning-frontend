@@ -73,6 +73,9 @@ Just remember, you'll eventually want to learn [TypeScript](https://www.typescri
 #### Learning Resources
 * [Eloquent JavaScript](https://eloquentjavascript.net/)
 * [JavaScript.info](https://javascript.info/)
+* [You Don't Know JS, Yet](https://github.com/getify/You-Dont-Know-JS)
+
+Another great resource is [Effective TypeScript](https://effectivetypescript.com/), though sadly it's not free. 
 
 #### Technical Questions
 * [Leetcode](https://leetcode.com/) 💜
